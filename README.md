@@ -6,4 +6,5 @@ This repo is for my practices of the Udemy courses I took
   * Not a good course, don't wast time to take it.
   * Read my notebook is good enough.
 
-###
+### Data visualization in Python for machine learning engineers
+  * Read notebook is good enough
