@@ -8,3 +8,15 @@ This repo is for my practices of the Udemy courses I took
 
 ### Data visualization in Python for machine learning engineers
   * Read notebook is good enough
+
+### Hadoop_start_kit
+
+### Learn Keras: Build 4 deep learning applications
+
+### Practical machine learning with Scikit learn
+
+### Reinforcement learning with Pytorch
+
+###
+
+###
