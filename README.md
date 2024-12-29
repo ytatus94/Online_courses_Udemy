@@ -2,6 +2,13 @@
 This repo is for my practices of the Udemy courses I took
 
 ## Courses
+
+### Jose Portilla
+  * Courses taught by Jose Portilla
+
+### Lazy Programmer
+  * Courses taught by Lazy Programmer
+
 ### A gentle introduction to deep learning using keras 
   * Not a good course, don't wast time to take it.
   * Read my notebook is good enough.
