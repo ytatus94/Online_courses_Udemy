@@ -6,6 +6,18 @@ This repo is for my practices of the Udemy courses I took
 ### Jose Portilla's Courses
   * Courses taught by Jose Portilla
 
+|Course||
+|:---|:---|
+|Python for Data Science and Maching Learning Bootcamp||
+|Learning Python for Data Analysis and Visualization Ver 1||
+|Deep Learning with Python and Keras||
+|Complete Guide to Tensorflow for Deep Learning with Python||
+|Pytorch for Deep Learning with Python Bootcamp||
+|Spark and Python for Big Data with PySpark||
+|Scala and Spark for Big Data and Machine Learning||
+|Python for Time Series Data Analysis||
+|Python for Financial Analysis and Algothimic Trading||
+
 ### Lazy Programmer's Courses
   * Courses taught by Lazy Programmer
 
